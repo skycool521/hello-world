@@ -1,2 +1,5 @@
 # hello-world
-Just another respository
+
+Hi Humans!
+
+Skycool here. This is my first time being here.
